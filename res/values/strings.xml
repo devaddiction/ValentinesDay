@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Valentine\'s Day</string>
+    <string name="action_settings">Settings</string>
+    <string name="load_picture">Load Picture and Check results!</string>
+    <string name="your_name">Your name</string>
+    <string name="his_her_name">His/her name</string>
+    <string name="date_meet">Date you started dating:</string>
+    <string name="valentineapp_description">Valentine\'s Day is an application that allows lovers to send a nice photo with a text and their names.</string>
+    <string name="title_activity_display_images_names">The result of your love</string>
+    <string name="toast_send">Tap the image to send it!</string>
+    
+</resources>
